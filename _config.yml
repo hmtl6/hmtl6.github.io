@@ -1,0 +1,8 @@
+# Site settings
+title: HMTL
+description: Loosers talking about rubbish
+github_username: hmtl6
+permalink: /:year-:month-:day-:title/
+
+# Build settings
+markdown: kramdown

@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <div class="post-misc">
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <span class="post-location">{% if post.location %} @ {{ post.location }}{% endif %}</span>
+          {% if post.speakers %}
+            <ul class="post-speakers">
+            {% for speaker in post.speakers %}
+              <li class="post-speaker">{{ speaker }}</li>
+            {% endfor %}
+            </ul>
+          {% endif %}
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
