@@ -20,6 +20,10 @@ speakers:
 
 ## Paul - Codeship
 
+Slides are here:
+
+ - [http://ohskylab.github.io/hmtl-codeship-talk/](http://ohskylab.github.io/hmtl-codeship-talk/)
+
 This post on setting up Codeship to build and deploy a static Middleman blog to S3 covers the basics:
 
  - [http://blog.codeship.io/2014/02/04/continuous-deployment-static-pages-amazon-s3.html](http://blog.codeship.io/2014/02/04/continuous-deployment-static-pages-amazon-s3.html)
