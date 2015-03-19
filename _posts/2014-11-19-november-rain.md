@@ -1,7 +1,7 @@
 ---
 layout: post
 title: November Rain
-location: Forward Worldwide
+location: Forward Worldwide, Clerkenwell
 speakers:
  - Davy - React
  - Henry - Random ramblings
