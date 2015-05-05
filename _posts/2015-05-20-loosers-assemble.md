@@ -3,12 +3,12 @@ layout: post
 title: Loosers Assemble
 location: BBC R&D in Euston
 speakers:
- - Direct Democracy app - Clare Matthews
- - Phaser HTML5 game framework - Matt Sephton
- - Jekyll - Pete Goodman (lighting talk)
- - Github Export Tool - Pete Graham (lighting talk)
- - The difference between cows and horses - James Booth (lighting talk)
- - ES6/React personal project - Jed Richards (lighting talk)
+ - Clare Matthews - Direct Democracy app
+ - Matt Sephton - Phaser HTML5 game framework
+ - Pete Goodman - Jekyll (lighting talk)
+ - Pete Graham - Github Export Tool (lighting talk)
+ - James Booth - The difference between cows and horses (lighting talk)
+ - Jed Richards - ES6/React personal project (lighting talk)
 
 ---
 
