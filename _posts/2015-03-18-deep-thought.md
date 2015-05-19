@@ -19,7 +19,7 @@ If anyone would like to hear more about how the projects in Lebanon go, we'll wr
 
 and on twitter:
 
- - [www.twitter.com/promiseapps](www.twitter.com/promiseapps)
+ - [https://www.twitter.com/promiseapps](https://www.twitter.com/promiseapps)
 
 And here's some links from the talk:
 
