@@ -13,7 +13,7 @@ speakers:
 ---
 
 ## Directions
-BBC R&D IRFS is in a large building called One Euston Square just in front of Euston station (on the right as you come out, opposite Pret). It's one of the big tower blocks directly outside the front of Euston station and there's an All Bar One on the ground floor.
+BBC R&D IRFS is on the 5th floor of a large building called One Euston Square just in front of Euston station (on the right as you come out, opposite Pret). It's one of the big tower blocks directly outside the front of the station and there's an All Bar One on the ground floor.
 
 There'll be a list of names down at reception and Henry will be downstairs to shepherd people in from 1830ish.
 
