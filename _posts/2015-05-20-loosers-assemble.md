@@ -11,6 +11,8 @@ speakers:
  - Jed Richards - ES6/React personal project (lightning talk)
 ---
 
+![Loosers]({{ site.url }}/img/2015-05-20-001.jpg)
+
 ## Jed ES6/React
 
 Repo is public in case anyone fancies having a poke around. Might add some "todo" issues soon, please get involved if you want! It's just a learning exercise.
