@@ -13,7 +13,9 @@ speakers:
 
 ## Jed ES6/React
 
-Repo is public in case anyone fancies having a poke around. Might add some "todo" issues soon, please get involved if you want! It's just a learning exercise. https://github.com/madebycomrades/autokitty-react
+Repo is public in case anyone fancies having a poke around. Might add some "todo" issues soon, please get involved if you want! It's just a learning exercise.
+
+[madebycomrades/autokitty-react](https://github.com/madebycomrades/autokitty-react)
 
 Tech stack:
 
