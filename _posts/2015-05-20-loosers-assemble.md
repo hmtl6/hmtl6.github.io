@@ -5,7 +5,6 @@ location: BBC R&D in Euston
 speakers:
  - Clare Matthews - Direct Democracy app
  - Matt Sephton - Phaser HTML5 game framework
- - Pete Goodman - Raspberry Pi project (lightning talk)
  - Pete Graham - Github Export Tool (lightning talk)
  - James Booth - The difference between cows and horses (lightning talk)
  - Jed Richards - ES6/React personal project (lightning talk)
@@ -26,3 +25,5 @@ Tech stack:
 - PouchDB
 - Isomorphic React + Flux
 - npm/jspm
+
+### No-one else could be arsed to write up their notes. Thanks for that, keep up the work.
