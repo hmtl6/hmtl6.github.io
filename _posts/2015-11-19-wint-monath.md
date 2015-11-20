@@ -39,15 +39,15 @@ Suicide is very complicated, and there are often many reasons why someone may ki
 
 The inability to discuss feelings and admit 'weakness' could be killing men.
 
-I've been learning a lot about this recently whilst helping to facilitate workshops for young boys at school. I've been working with GREAT men project, which goes into schools and challenge stereotypes of masculinity and to engage the boys in the movement towards gender equality.
+I've been learning a lot about this recently whilst helping to facilitate workshops for young boys in schools. I've been working with The GREAT Men project, they go into schools and challenge the stereotypes of masculinity and to engage the boys in the movement towards gender equality.
 
 When I've mentioned to some people about running workshops on being a man and masculinity, a couple of times the first reply has been "you, talk about masculinity"
 
-All those little throwaway kind of comments, questioning someone's masculinity can have an ongoing negative affect on them.
+All those little throwaway comments, questioning someone's masculinity, can have a negative affect on them in the long term.
 
 I want to get more men talking, and talking about talking.
 
-Which is why I signed up to the GREAT Men project.
+Which is why I signed up to The GREAT Men project.
 
 So happy international men's day, go and tell a man you love how you're feeling, to let them know it's OK to discuss their thoughts and feelings.
 
