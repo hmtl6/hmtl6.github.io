@@ -3,11 +3,11 @@ layout: post
 title: Loosers Assemble
 location: BBC R&D in Euston
 speakers:
- - Clare Matthews - Direct Democracy app
- - Matt Sephton - Phaser HTML5 game framework
- - Pete Graham - Github Export Tool (lightning talk)
- - James Booth - The difference between cows and horses (lightning talk)
- - Jed Richards - ES6/React personal project (lightning talk)
+ - Clare - Direct Democracy app
+ - Matt S - Phaser HTML5 game framework
+ - PXG - Github Export Tool (lightning talk)
+ - James B - The difference between cows and horses (lightning talk)
+ - Jed - ES6/React personal project (lightning talk)
 ---
 
 ![Loosers]({{ site.url }}/img/2015-05-20-001.jpg)
