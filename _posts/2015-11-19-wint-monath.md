@@ -17,9 +17,9 @@ speakers:
 Thanks for listening to my prototype thoughts about how and when we clean our
 software and how measurement fits with that.
 
-Slides are here on [speakerdeck](https://speakerdeck.com/jamescooke/code-hygiene)
+Slides are here on [speakerdeck](https://speakerdeck.com/jamescooke/software-hygiene).
 
-Software measurement "manifesto" is the [README of my Measurable Software repo](https://github.com/jamescooke/measurable-software)
+Software measurement "manifesto" is the [Measurable Software README](https://github.com/jamescooke/measurable-software).
 
 
 ## Henry - Pastcards tech
