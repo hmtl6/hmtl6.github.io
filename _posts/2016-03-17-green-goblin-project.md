@@ -12,7 +12,7 @@ speakers:
 
 ## Simon - Two days of Go
 
-...
+[Simon's Go talk]({{ site.url}}/files/2016-03-17_simon_go/) (DHMTL)
 
 
 ## Christian - Six months of Go
