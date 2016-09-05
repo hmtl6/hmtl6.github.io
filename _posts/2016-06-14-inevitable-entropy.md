@@ -17,7 +17,7 @@ speakers:
 
 ## Jonas - React
 
-...
+[Slides about the lessons I learned starting with React and Redux](https://docs.google.com/presentation/d/1nOszkpX1BvxWK1kHZRXFcsQzmPk24Z8zrUb6yxFjo14/edit?usp=sharing)
 
 
 ## Tom and Liam - Lost my name
