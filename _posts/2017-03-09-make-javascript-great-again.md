@@ -16,10 +16,10 @@ speakers:
 
 
 ## Matt C - Let's Encrypt
-- Let's Encrypt: [https://letsencrypt.org/]()
-- Certbot: [https://certbot.eff.org/]()
-- Chrome not secure warning: [https://developers.google.com/web/updates/2016/10/avoid-not-secure-warn]()
-- Let's Encrypt 2016 Stats: [https://letsencrypt.org/2017/01/06/le-2016-in-review.html]()
+- Let's Encrypt: [https://letsencrypt.org/](https://letsencrypt.org/)
+- Certbot: [https://certbot.eff.org/](https://certbot.eff.org/)
+- Chrome not secure warning: [https://developers.google.com/web/updates/2016/10/avoid-not-secure-warn](https://developers.google.com/web/updates/2016/10/avoid-not-secure-warn)
+- Let's Encrypt 2016 Stats: [https://letsencrypt.org/2017/01/06/le-2016-in-review.html](https://letsencrypt.org/2017/01/06/le-2016-in-review.html)
 
 
 ## Josh - GraphQL
