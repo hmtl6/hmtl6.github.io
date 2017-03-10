@@ -11,7 +11,7 @@ speakers:
 
 
 ## James C - Github Integrations
-
+![Fine grained auth]({{ site.url }}/img/2017-03-09-002.jpg)
 ...
 
 
@@ -21,5 +21,8 @@ speakers:
 
 
 ## Josh - GraphQL
-
+![Whiteboard]({{ site.url }}/img/2017-03-09-003.jpg)
 ...
+
+## German fashion
+![Christian's Twin]({{ site.url }}/img/2017-03-09-004.jpg)
