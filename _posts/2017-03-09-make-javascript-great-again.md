@@ -5,7 +5,7 @@ location: WeWork
 speakers:
  - James C - Github Integrations
  - Matt C - Let's Encrypt
- - Josh - GraphQL
+ - Jesh - GraphQL
 ---
 ![Loosers]({{ site.url }}/img/2017-03-09-001.jpg)
 
@@ -22,7 +22,10 @@ speakers:
 - Let's Encrypt 2016 Stats: [https://letsencrypt.org/2017/01/06/le-2016-in-review.html](https://letsencrypt.org/2017/01/06/le-2016-in-review.html)
 
 
-## Josh - GraphQL
+## Jesh - GraphQL
+
+- A great ~3hr tutorial to get to grips with GraphQL: [https://learngraphql.com/](https://learngraphql.com/)
+
 ![Whiteboard]({{ site.url }}/img/2017-03-09-003.jpg)
 ...
 
