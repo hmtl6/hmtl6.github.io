@@ -13,6 +13,10 @@ speakers:
 
 ![Christian Klotz]({{ site.url }}/img/2018-09-20-003.JPG)
 
+- [Slides](https://speakerdeck.com/christianklotz/building-a-processing-pipeline-with-serverless-and-cloudformation)
+- [Sample project](https://github.com/christianklotz/aws-step-functions-iterate-sample)
+- [Medium article](https://medium.com/@christianklotz/c185c2d2608)
+
 ## John Law-Lund: Fancy stuff he's been doing with new versions of React
 
 ![John Law-Lund]({{ site.url }}/img/2018-09-20-004.JPG)
