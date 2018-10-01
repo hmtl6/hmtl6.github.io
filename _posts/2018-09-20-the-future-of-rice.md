@@ -26,6 +26,8 @@ speakers:
 ## Joel Gethin Lewis: Experiences using Glitch.com for teaching creative coding, as well as ml5.js
 ![Joel Gethin Lewis]({{ site.url }}/img/2018-09-20-005.jpg)
 
+- [Slides](https://joelgethinlewis.com/presentations/HMTL2018/)
+
 ## Liam Walsh: Either voice control in children's apps or mixing enhancing Augmented Reality with mapping data
 ![Liam Walsh]({{ site.url }}/img/2018-09-20-001.jpg)
 
